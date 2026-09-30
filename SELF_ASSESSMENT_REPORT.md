@@ -1,5 +1,8 @@
 # Self Assessment Report
 
+- Repo: https://github.com/quaanluuw0210/wad-cart-IA1
+- Submitted by: 24120417_Luu Dinh Quan
+
 | Criterion | Points Claimed | Evidence |
 | :--- | :---: | :--- |
 | 1. Behaviour | 30 | `src/cart.js`: Passes all spec constraints including empty cart, threshold, RangeError, whole đồng rounding. |
